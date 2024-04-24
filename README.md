@@ -1,6 +1,6 @@
 # SocialLaunch
 Social Media Sentiment Analysis Tool. Scrape social media comments via link and generate a score.
-DistilBERT was fine tuned on scrapped social media comments.
+DistilBERT was fine tuned on scraped  social media comments.
 
 # Video Trailer 
 https://youtu.be/CP7SmUTcLS0
